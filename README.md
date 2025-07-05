@@ -2,7 +2,7 @@
 - 👀 I’m interested in **software development, embedded systems, and AI/ML**
 - 🌱 I’m currently learning **FreeRTOS on ESP32, advanced C/C++, and real-time systems**
 - 💞️ I’m looking to collaborate on **open-source IoT projects, automation tools, and AI-based applications**
-- 📫 How to reach me: **[LinkedIn](http://www.linkedin.com/in/sandeep-merugumala)** | **Email: sandeepmerugumala480@gmail.com.com**
+- 📫 How to reach me: **[LinkedIn](http://www.linkedin.com/in/sandeep-merugumala)** | **Email: sandeepmerugumala480@gmail.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I can debug in my sleep—or at least dream about it!**
 
